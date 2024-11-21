@@ -28,4 +28,10 @@ The .exe file is generated in this path:
 
 `your\project\path\out\make\squirrel.windows\x64`
 
-🚀
+## Pack Site as Desktop Application
+
+Put you web site files (html, css, js, images, etc) in `site` folder.
+
+The main html should be named: index.html.
+
+Build and take the .exe file 🚀
