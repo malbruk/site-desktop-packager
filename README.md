@@ -30,8 +30,8 @@ The .exe file is generated in this path:
 
 ## Pack Site as Desktop Application
 
-Put you web site files (html, css, js, images, etc) in `site` folder.
+Put your web site files (html, css, js, images, etc) in `site` folder.
 
-The main html should be named: index.html.
+The main html should be named `index.html`.
 
 Build and take the .exe file 🚀
